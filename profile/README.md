@@ -1,7 +1,7 @@
 # Basel Practitioners Private Limited
 > Know which risk is worth taking
 
-Basel Practitioners Private Limited (BPPL) is a Consulting start up, and we are building a Cloud based- Basel  calculation platform (Risk Management - Calculation engine) targeted on banks in India and the US. \
+Basel Practitioners Private Limited (BPPL) is a Consulting start up, and we are building a Cloud based- Basel  calculation platform (Risk Management - Calculation engine) targeted on banks in India and the US.
 
 We offer cloud based flexible, scalable and user friendly "Basel Solutions in a Box"
 
