@@ -12,6 +12,7 @@ We offer cloud based flexible, scalable and user friendly "Basel Solutions in a 
 - Java SpringBoot (Backend)
 - SQL ( Database )
 - Docker (Deployment)
+- Analysis (QuickSight)
 
 ## Links to the Code Repositories
 - [Frontend UI Code](https://github.com/baselpractitioners/bppl_app_ui) 
