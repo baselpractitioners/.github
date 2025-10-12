@@ -5,8 +5,6 @@ Basel Practitioners Private Limited (BPPL) is a Consulting start up, and we are 
 
 We offer cloud based flexible, scalable and user friendly "Basel Solutions in a Box"
 
-# Basel4 Microservices Architecture
-
 ## Overview
 
 ### All Services (Dockerized)
